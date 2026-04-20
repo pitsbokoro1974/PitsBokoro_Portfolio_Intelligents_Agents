@@ -1,0 +1,21 @@
+title,authors,year,doi,relevance_score
+Reproducibility in Machine Learning for Health,"[""Matthew B. A. McDermott"", ""Shirly Wang"", ""Nikki Marinsek"", ""Rajesh Ranganath"", ""Marzyeh Ghassemi"", ""Luca Foschini""]",2019,,0.30923403024139595
+Learning Curves for Decision Making in Supervised Machine Learning: A Survey,"[""Felix Mohr"", ""Jan N. van Rijn""]",2022,10.1007/s10994-024-06619-7,0.29341374421890215
+Automatic Machine Learning by Pipeline Synthesis using Model-Based Reinforcement Learning and a Grammar,"[""Iddo Drori"", ""Yamuna Krishnamurthy"", ""Raoni Lourenco"", ""Remi Rampin"", ""Kyunghyun Cho"", ""Claudio Silva"", ""Juliana Freire""]",2019,,0.23777700649211905
+Physics-Inspired Interpretability Of Machine Learning Models,"[""Maximilian P Niroomand"", ""David J Wales""]",2023,,0.2303042668469666
+Explanatory machine learning for sequential human teaching,"[""Lun Ai"", ""Johannes Langer"", ""Stephen H. Muggleton"", ""Ute Schmid""]",2022,10.1007/s10994-023-06351-8,0.22408414177425218
+DOME: Recommendations for supervised machine learning validation in biology,"[""Ian Walsh"", ""Dmytro Fishman"", ""Dario Garcia-Gasulla"", ""Tiina Titma"", ""Gianluca Pollastri"", ""The ELIXIR Machine Learning focus group"", ""Jen Harrow"", ""Fotis E. Psomopoulos"", ""Silvio C. E. Tosatto""]",2020,,0.20592355771908025
+Fourier Learning Machines: Nonharmonic Fourier-Based Neural Networks for Scientific Machine Learning,"[""Mominul Rubel"", ""Adam Meyers"", ""Gabriel Nicolosi""]",2025,,0.2039138382129567
+Beyond Volume: The Impact of Complex Healthcare Data on the Machine Learning Pipeline,"[""Keith Feldman"", ""Louis Faust"", ""Xian Wu"", ""Chao Huang"", ""Nitesh V. Chawla""]",2017,10.1007/978-3-319-69775-8_9,0.19982645282373004
+Changing Data Sources in the Age of Machine Learning for Official Statistics,"[""Cedric De Boom"", ""Michael Reusens""]",2023,,0.1918617010508063
+ML-Schema: Exposing the Semantics of Machine Learning with Schemas and Ontologies,"[""Gustavo Correa Publio"", ""Diego Esteves"", ""Agnieszka \u0141awrynowicz"", ""Pan\u010de Panov"", ""Larisa Soldatova"", ""Tommaso Soru"", ""Joaquin Vanschoren"", ""Hamid Zafar""]",2018,,0.1845146458144697
+Privacy-preserving machine learning for healthcare: open challenges and future perspectives,"[""Alejandro Guerra-Manzanares"", ""L. Julian Lechuga Lopez"", ""Michail Maniatakos"", ""Farah E. Shamout""]",2023,10.1007/978-3-031-39539-0_3,0.17397267738972205
+A Benchmark Study of Machine Learning Models for Online Fake News Detection,"[""Junaed Younus Khan"", ""Md. Tawkat Islam Khondaker"", ""Sadia Afroz"", ""Gias Uddin"", ""Anindya Iqbal""]",2019,10.1016/j.mlwa.2021.100032,0.17397267738972205
+Generalizing Machine Learning Evaluation through the Integration of Shannon Entropy and Rough Set Theory,"[""Olga Cherednichenko"", ""Dmytro Chernyshov"", ""Dmytro Sytnikov"", ""Polina Sytnikova""]",2024,,0.162717699548392
+MEMe: An Accurate Maximum Entropy Method for Efficient Approximations in Large-Scale Machine Learning,"[""Diego Granziol"", ""Binxin Ru"", ""Stefan Zohren"", ""Xiaowen Doing"", ""Michael Osborne"", ""Stephen Roberts""]",2019,10.3390/e21060551,0.15339790819744248
+Public Policymaking for International Agricultural Trade using Association Rules and Ensemble Machine Learning,"[""Feras A. Batarseh"", ""Munisamy Gopinath"", ""Anderson Monken"", ""Zhengrong Gu""]",2021,10.1016/j.mlwa.2021.100046,0.15339790819744248
+ALERT-Transformer: Bridging Asynchronous and Synchronous Machine Learning for Real-Time Event-based Spatio-Temporal Data,"[""Carmen Martin-Turrero"", ""Maxence Bouvier"", ""Manuel Breitenstein"", ""Pietro Zanuttigh"", ""Vincent Parret""]",2024,,0.13632824148546674
+Learning Representations from Dendrograms,"[""Morteza Haghir Chehreghani"", ""Mostafa Haghir Chehreghani""]",2018,10.1007/s10994-020-05895-3,0.13038599987553506
+Active learning for data streams: a survey,"[""Davide Cacciarelli"", ""Murat Kulahci""]",2023,10.1007/s10994-023-06454-2,0.10441617678260534
+Emotion in Reinforcement Learning Agents and Robots: A Survey,"[""Thomas M. Moerland"", ""Joost Broekens"", ""Catholijn M. Jonker""]",2017,10.1007/s10994-017-5666-0,0.08882747120769796
+Unsupervised Representation Learning with Minimax Distance Measures,"[""Morteza Haghir Chehreghani""]",2019,10.1007/s10994-020-05886-4,0.08350981667031014

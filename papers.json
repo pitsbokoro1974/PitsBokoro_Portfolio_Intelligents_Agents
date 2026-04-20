@@ -1,0 +1,142 @@
+[
+  {
+    "title":"Reproducibility in Machine Learning for Health",
+    "authors":"[\"Matthew B. A. McDermott\", \"Shirly Wang\", \"Nikki Marinsek\", \"Rajesh Ranganath\", \"Marzyeh Ghassemi\", \"Luca Foschini\"]",
+    "year":"2019",
+    "doi":null,
+    "relevance_score":0.3092340302
+  },
+  {
+    "title":"Learning Curves for Decision Making in Supervised Machine Learning: A Survey",
+    "authors":"[\"Felix Mohr\", \"Jan N. van Rijn\"]",
+    "year":"2022",
+    "doi":"10.1007\/s10994-024-06619-7",
+    "relevance_score":0.2934137442
+  },
+  {
+    "title":"Automatic Machine Learning by Pipeline Synthesis using Model-Based Reinforcement Learning and a Grammar",
+    "authors":"[\"Iddo Drori\", \"Yamuna Krishnamurthy\", \"Raoni Lourenco\", \"Remi Rampin\", \"Kyunghyun Cho\", \"Claudio Silva\", \"Juliana Freire\"]",
+    "year":"2019",
+    "doi":null,
+    "relevance_score":0.2377770065
+  },
+  {
+    "title":"Physics-Inspired Interpretability Of Machine Learning Models",
+    "authors":"[\"Maximilian P Niroomand\", \"David J Wales\"]",
+    "year":"2023",
+    "doi":null,
+    "relevance_score":0.2303042668
+  },
+  {
+    "title":"Explanatory machine learning for sequential human teaching",
+    "authors":"[\"Lun Ai\", \"Johannes Langer\", \"Stephen H. Muggleton\", \"Ute Schmid\"]",
+    "year":"2022",
+    "doi":"10.1007\/s10994-023-06351-8",
+    "relevance_score":0.2240841418
+  },
+  {
+    "title":"DOME: Recommendations for supervised machine learning validation in biology",
+    "authors":"[\"Ian Walsh\", \"Dmytro Fishman\", \"Dario Garcia-Gasulla\", \"Tiina Titma\", \"Gianluca Pollastri\", \"The ELIXIR Machine Learning focus group\", \"Jen Harrow\", \"Fotis E. Psomopoulos\", \"Silvio C. E. Tosatto\"]",
+    "year":"2020",
+    "doi":null,
+    "relevance_score":0.2059235577
+  },
+  {
+    "title":"Fourier Learning Machines: Nonharmonic Fourier-Based Neural Networks for Scientific Machine Learning",
+    "authors":"[\"Mominul Rubel\", \"Adam Meyers\", \"Gabriel Nicolosi\"]",
+    "year":"2025",
+    "doi":null,
+    "relevance_score":0.2039138382
+  },
+  {
+    "title":"Beyond Volume: The Impact of Complex Healthcare Data on the Machine Learning Pipeline",
+    "authors":"[\"Keith Feldman\", \"Louis Faust\", \"Xian Wu\", \"Chao Huang\", \"Nitesh V. Chawla\"]",
+    "year":"2017",
+    "doi":"10.1007\/978-3-319-69775-8_9",
+    "relevance_score":0.1998264528
+  },
+  {
+    "title":"Changing Data Sources in the Age of Machine Learning for Official Statistics",
+    "authors":"[\"Cedric De Boom\", \"Michael Reusens\"]",
+    "year":"2023",
+    "doi":null,
+    "relevance_score":0.1918617011
+  },
+  {
+    "title":"ML-Schema: Exposing the Semantics of Machine Learning with Schemas and Ontologies",
+    "authors":"[\"Gustavo Correa Publio\", \"Diego Esteves\", \"Agnieszka \\u0141awrynowicz\", \"Pan\\u010de Panov\", \"Larisa Soldatova\", \"Tommaso Soru\", \"Joaquin Vanschoren\", \"Hamid Zafar\"]",
+    "year":"2018",
+    "doi":null,
+    "relevance_score":0.1845146458
+  },
+  {
+    "title":"Privacy-preserving machine learning for healthcare: open challenges and future perspectives",
+    "authors":"[\"Alejandro Guerra-Manzanares\", \"L. Julian Lechuga Lopez\", \"Michail Maniatakos\", \"Farah E. Shamout\"]",
+    "year":"2023",
+    "doi":"10.1007\/978-3-031-39539-0_3",
+    "relevance_score":0.1739726774
+  },
+  {
+    "title":"A Benchmark Study of Machine Learning Models for Online Fake News Detection",
+    "authors":"[\"Junaed Younus Khan\", \"Md. Tawkat Islam Khondaker\", \"Sadia Afroz\", \"Gias Uddin\", \"Anindya Iqbal\"]",
+    "year":"2019",
+    "doi":"10.1016\/j.mlwa.2021.100032",
+    "relevance_score":0.1739726774
+  },
+  {
+    "title":"Generalizing Machine Learning Evaluation through the Integration of Shannon Entropy and Rough Set Theory",
+    "authors":"[\"Olga Cherednichenko\", \"Dmytro Chernyshov\", \"Dmytro Sytnikov\", \"Polina Sytnikova\"]",
+    "year":"2024",
+    "doi":null,
+    "relevance_score":0.1627176995
+  },
+  {
+    "title":"MEMe: An Accurate Maximum Entropy Method for Efficient Approximations in Large-Scale Machine Learning",
+    "authors":"[\"Diego Granziol\", \"Binxin Ru\", \"Stefan Zohren\", \"Xiaowen Doing\", \"Michael Osborne\", \"Stephen Roberts\"]",
+    "year":"2019",
+    "doi":"10.3390\/e21060551",
+    "relevance_score":0.1533979082
+  },
+  {
+    "title":"Public Policymaking for International Agricultural Trade using Association Rules and Ensemble Machine Learning",
+    "authors":"[\"Feras A. Batarseh\", \"Munisamy Gopinath\", \"Anderson Monken\", \"Zhengrong Gu\"]",
+    "year":"2021",
+    "doi":"10.1016\/j.mlwa.2021.100046",
+    "relevance_score":0.1533979082
+  },
+  {
+    "title":"ALERT-Transformer: Bridging Asynchronous and Synchronous Machine Learning for Real-Time Event-based Spatio-Temporal Data",
+    "authors":"[\"Carmen Martin-Turrero\", \"Maxence Bouvier\", \"Manuel Breitenstein\", \"Pietro Zanuttigh\", \"Vincent Parret\"]",
+    "year":"2024",
+    "doi":null,
+    "relevance_score":0.1363282415
+  },
+  {
+    "title":"Learning Representations from Dendrograms",
+    "authors":"[\"Morteza Haghir Chehreghani\", \"Mostafa Haghir Chehreghani\"]",
+    "year":"2018",
+    "doi":"10.1007\/s10994-020-05895-3",
+    "relevance_score":0.1303859999
+  },
+  {
+    "title":"Active learning for data streams: a survey",
+    "authors":"[\"Davide Cacciarelli\", \"Murat Kulahci\"]",
+    "year":"2023",
+    "doi":"10.1007\/s10994-023-06454-2",
+    "relevance_score":0.1044161768
+  },
+  {
+    "title":"Emotion in Reinforcement Learning Agents and Robots: A Survey",
+    "authors":"[\"Thomas M. Moerland\", \"Joost Broekens\", \"Catholijn M. Jonker\"]",
+    "year":"2017",
+    "doi":"10.1007\/s10994-017-5666-0",
+    "relevance_score":0.0888274712
+  },
+  {
+    "title":"Unsupervised Representation Learning with Minimax Distance Measures",
+    "authors":"[\"Morteza Haghir Chehreghani\"]",
+    "year":"2019",
+    "doi":"10.1007\/s10994-020-05886-4",
+    "relevance_score":0.0835098167
+  }
+]

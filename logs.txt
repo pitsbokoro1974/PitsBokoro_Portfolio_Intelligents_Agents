@@ -1,0 +1,91 @@
+[2026-04-12 18:18:32] [LOG] Starting pipeline for: dog
+[2026-04-12 18:18:32] [LOG] Query expansion time: 0.00s
+[2026-04-12 18:18:59] [LOG] Retrieved 80 papers in 26.96s
+[2026-04-12 18:18:59] [LOG] After cleaning: 60 papers in 0.00s
+[2026-04-12 18:18:59] [LOG] Classification: 60 papers in 0.05s
+[2026-04-12 18:18:59] [LOG] Pipeline completed in 27.05s
+[2026-04-12 18:22:31] [LOG] Starting pipeline for: dogs
+[2026-04-12 18:22:31] [LOG] Query expansion time: 0.00s
+[2026-04-12 18:22:52] [LOG] Retrieved 60 papers in 21.24s
+[2026-04-12 18:22:52] [LOG] After cleaning: 52 papers in 0.00s
+[2026-04-12 18:22:52] [LOG] Classification: 52 papers in 0.04s
+[2026-04-12 18:22:52] [LOG] Pipeline completed in 21.31s
+[2026-04-12 18:29:49] [LOG] Starting pipeline for: Sleep
+[2026-04-12 18:29:49] [LOG] Query expansion time: 0.00s
+[2026-04-12 18:29:59] [LOG] Retrieved 80 papers in 10.00s
+[2026-04-12 18:29:59] [LOG] After cleaning: 46 papers in 0.00s
+[2026-04-12 18:29:59] [LOG] Classification: 46 papers in 0.04s
+[2026-04-12 18:29:59] [LOG] Pipeline completed in 10.09s
+
+[2026-04-12 18:49:27] [LOG] Starting pipeline for: Longevity
+[2026-04-12 18:49:39] [LOG] Retrieved 80 papers
+[2026-04-12 18:49:39] [LOG] After cleaning: 60 papers
+[2026-04-12 18:49:39] [LOG] Pipeline completed in 11.60s
+[2026-04-12 18:57:21] [LOG] Starting pipeline for: python -u "c:\Users\eboko\Documents\vs code\Python Programs\ML\agent\main.py"
+[2026-04-12 18:57:23] [LOG] Retrieved 20 papers
+[2026-04-12 18:57:23] [LOG] After cleaning: 20 papers
+[2026-04-12 18:57:23] [LOG] Pipeline completed in 2.44s
+[2026-04-12 18:58:19] [LOG] Starting pipeline for: Philosophy
+[2026-04-12 18:58:22] [LOG] Retrieved 20 papers
+[2026-04-12 18:58:22] [LOG] After cleaning: 20 papers
+[2026-04-12 18:58:22] [LOG] Pipeline completed in 2.28s
+[2026-04-12 19:01:40] [LOG] Starting pipeline for: Perfect Pitch in Adulthood
+[2026-04-12 19:01:42] [LOG] Retrieved 20 papers
+[2026-04-12 19:01:42] [LOG] After cleaning: 20 papers
+[2026-04-12 19:01:42] [LOG] Pipeline completed in 2.50s
+[2026-04-12 19:05:20] [LOG] Starting pipeline for: Sports
+[2026-04-12 19:05:22] [LOG] Retrieved 20 papers
+[2026-04-12 19:05:22] [LOG] After cleaning: 20 papers
+[2026-04-12 19:05:22] [LOG] Pipeline completed in 2.24s
+[2026-04-12 19:08:50] [LOG] Starting pipeline for: Health
+[2026-04-12 19:08:53] [LOG] Retrieved 20 papers
+[2026-04-12 19:08:53] [LOG] After cleaning: 20 papers
+[2026-04-12 19:08:53] [LOG] Pipeline completed in 2.32s
+[2026-04-12 19:09:54] [LOG] Starting pipeline for: Smart Grids
+[2026-04-12 19:09:57] [LOG] Retrieved 20 papers
+[2026-04-12 19:09:57] [LOG] After cleaning: 20 papers
+[2026-04-12 19:09:57] [LOG] Pipeline completed in 2.28s
+[2026-04-12 19:10:46] [LOG] Starting pipeline for: Asset Management
+[2026-04-12 19:10:49] [LOG] Retrieved 20 papers
+[2026-04-12 19:10:49] [LOG] After cleaning: 20 papers
+[2026-04-12 19:10:49] [LOG] Pipeline completed in 2.98s
+[2026-04-12 19:11:26] [LOG] Starting pipeline for: Condition Monitoring
+[2026-04-12 19:11:28] [LOG] Retrieved 20 papers
+[2026-04-12 19:11:28] [LOG] After cleaning: 20 papers
+[2026-04-12 19:11:28] [LOG] Pipeline completed in 2.64s
+[2026-04-13 20:19:03] [LOG] Starting pipeline for: Smart Gride
+[2026-04-13 20:19:05] [LOG] Retrieved 20 papers
+[2026-04-13 20:19:05] [LOG] After cleaning: 20 papers
+[2026-04-13 20:19:05] [LOG] Pipeline completed in 2.44s
+[2026-04-13 20:22:12] [LOG] Starting pipeline for: Hello
+[2026-04-13 20:22:15] [LOG] Retrieved 20 papers
+[2026-04-13 20:22:15] [LOG] After cleaning: 20 papers
+[2026-04-13 20:22:15] [LOG] Pipeline completed in 2.23s
+[2026-04-13 20:29:12] [LOG] Starting pipeline for: machine learning
+[2026-04-13 20:29:15] [LOG] Retrieved 20 papers
+[2026-04-13 20:29:15] [LOG] After cleaning: 20 papers
+[2026-04-13 20:29:15] [LOG] Pipeline completed in 2.58s
+[2026-04-13 20:29:45] [LOG] Starting pipeline for: machine learning
+[2026-04-13 20:29:47] [LOG] Retrieved 20 papers
+[2026-04-13 20:29:47] [LOG] After cleaning: 20 papers
+[2026-04-13 20:29:47] [LOG] Pipeline completed in 1.88s
+[2026-04-13 20:31:25] [LOG] Starting pipeline for: machine learning
+[2026-04-13 20:31:27] [LOG] Retrieved 20 papers
+[2026-04-13 20:31:27] [LOG] After cleaning: 20 papers
+[2026-04-13 20:31:27] [LOG] Pipeline completed in 1.81s
+[2026-04-13 20:40:14] [LOG] Starting pipeline for: machine learning
+[2026-04-13 20:40:16] [LOG] Retrieved 20 papers
+[2026-04-13 20:40:16] [LOG] After cleaning: 20 papers
+[2026-04-13 20:40:16] [LOG] Pipeline completed in 2.04s
+[2026-04-13 20:40:54] [LOG] Starting pipeline for: Surge Arrestor
+[2026-04-13 20:40:56] [LOG] Retrieved 20 papers
+[2026-04-13 20:40:56] [LOG] After cleaning: 20 papers
+[2026-04-13 20:40:56] [LOG] Pipeline completed in 2.39s
+[2026-04-13 20:41:51] [LOG] Starting pipeline for: machine learning
+[2026-04-13 20:41:53] [LOG] Retrieved 20 papers
+[2026-04-13 20:41:53] [LOG] After cleaning: 20 papers
+[2026-04-13 20:41:53] [LOG] Pipeline completed in 1.81s
+[2026-04-13 20:42:18] [LOG] Starting pipeline for: Machine Learning
+[2026-04-13 20:42:21] [LOG] Retrieved 20 papers
+[2026-04-13 20:42:21] [LOG] After cleaning: 20 papers
+[2026-04-13 20:42:21] [LOG] Pipeline completed in 2.45s
